@@ -13,5 +13,3 @@ item
 menu
 transaction
 
-- customer class: add `pastTransactions: List<Transaction>`
-- menu item class: add `popularityRating: Float` (e.g., 0.0-5.0)
